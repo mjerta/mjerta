@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Shopping-List](shopping-list.mpdev.nl)
 
-- 👨‍💻 All of my projects are available at [https://mpdev.nl](mpdev.nl)
+- 👨‍💻 All of my projects are available at [mpdev.nl](https://mpdev.nl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
