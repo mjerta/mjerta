@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Maarten Postma</h1>
+<h1 align="center">Maarten Postma</h1>
 <h3 align="center">A passionate frontend developer from the Netherlands</h3>
+<img src="https://media.tenor.com/8S_CuT8s2_oAAAAM/bruce-almighty-comedy.gif" alt="funny-picture">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjerta&label=Profile%20views&color=0e75b6&style=flat" alt="mjerta" /> </p>
 
