@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjerta" alt="mjerta" /></a> </p>
 
-- 🔭 I’m currently working on [Shopping-List](shopping-list.mpdev.nl)
+- 🎒 At the moment I'm following a full-stack develop bootcamp at [Novi](https://www.novi.nl/full-stack-developer/), Utrecht, the Neterlands.
+
+- 🔭 I’m currently working on [Shopping-List](https://shopping-list.mpdev.nl)
 
 - 👨‍💻 All of my projects are available at [mpdev.nl](https://mpdev.nl)
+
+-  🏫 Most of my recent activity goes to my homework and lessons I have for School
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
