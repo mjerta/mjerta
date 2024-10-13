@@ -7,7 +7,7 @@
 
 - 🎒 At the moment I'm following a full-stack develop bootcamp at [Novi](https://www.novi.nl/full-stack-developer/), Utrecht, the Neterlands.
 
-- 🔭 I’m currently working on [Einopdracht-NOVI-Bootcamp-FullStack-developer](https://github.com/mjerta/hotel-california-backend), [Shopping-List](https://shopping-list.mpdev.nl)
+- 🔭 I’m currently working on Einopdracht-NOVI-Bootcamp-FullStack-developer: [Backend](https://github.com/mjerta/hotel-california-backend) + [Frontend](https://github.com/mjerta/hotel-california-frontend), [Shopping-List](https://shopping-list.mpdev.nl)
 
 - 👨‍💻 All of my projects are available at [mpdev.nl](https://mpdev.nl)
 
