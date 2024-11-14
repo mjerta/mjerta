@@ -8,6 +8,7 @@
 - 🎒 At the moment I'm following a full-stack develop bootcamp at [Novi](https://www.novi.nl/full-stack-developer/), Utrecht, the Neterlands.
 
 - 🔭 I’m currently working on Einopdracht-NOVI-Bootcamp-FullStack-developer: [Backend](https://github.com/mjerta/hotel-california-backend) + [Frontend](https://github.com/mjerta/hotel-california-frontend)
+  - 🎉The application version 0.0.1 is ready for its evaluation. The waiting game for my degree has begon. Live version can be found here [Backend](https://hotel-california-backend.mpdev.nl/swagger-ui/)
 - 👨‍💻 All of my projects are available at [mpdev.nl](https://mpdev.nl)
 
 -  🏫 Most of my recent activity goes to my homework and lessons I have for School
