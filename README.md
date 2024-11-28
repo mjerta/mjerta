@@ -7,11 +7,12 @@
 
 - 🎒 At the moment I'm following a full-stack develop bootcamp at [Novi](https://www.novi.nl/full-stack-developer/), Utrecht, the Neterlands.
 
-- 🔭 I’m currently working on Einopdracht-NOVI-Bootcamp-FullStack-developer: [Backend](https://github.com/mjerta/hotel-california-backend) + [Frontend](https://github.com/mjerta/hotel-california-frontend)
+- 🔭 I finished my final assignment for the NOVI-FullStack-developer bootcamp: [Backend](https://github.com/mjerta/hotel-california-backend) + [Frontend](https://github.com/mjerta/hotel-california-frontend)
   - 🎉The application version 0.0.1 is ready for its evaluation. The waiting game for my degree has begon. Live version can be found here [Backend](https://hotel-california-backend.mpdev.nl/swagger-ui/index.html)
 - 👨‍💻 All of my projects are available at [mpdev.nl](https://mpdev.nl)
 
--  🏫 Most of my recent activity goes to my homework and lessons I have for School
+-  🏫 Most of my recent activity goes to finding a job as frontend/backend or full stack developer.
+  - 🏪 And of course I am always trying to expand my knowledge. For as the moment I'm focussing on finding different ways to deploy backend and front-end application in combination with Github Actions.   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
