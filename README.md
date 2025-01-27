@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjerta&label=Profile%20views&color=0e75b6&style=flat" alt="mjerta" /> </p>
 
 
-
-- 🎒 At the moment I'm following a full-stack develop bootcamp at [Novi](https://www.novi.nl/full-stack-developer/), Utrecht, the Neterlands.
-
 - 🔭 I succesfully finished my final assignment for the NOVI-FullStack-developer bootcamp: [Backend](https://github.com/mjerta/hotel-california-backend) + [Frontend](https://github.com/mjerta/hotel-california-frontend)
   - 🎉The application version 0.0.1 is ready for its evaluation. Live version can be found here [Backend](https://hotel-california-backend.mpdev.nl/swagger-ui/index.html) and [Frontend](https://copy-project.mpdev.nl/)
 - 👨‍💻 All of my projects are available at [mpdev.nl](https://mpdev.nl)
